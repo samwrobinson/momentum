@@ -223,6 +223,23 @@ footer {
 
 }
 
+@media screen and (max-width: 450px) {
+    .more_info {
+        margin: 0;
+        width: 90vw;
+    }
+    .park_runner {
+        margin-left: 10%;
+        width: 50vw;
+    }
+    p {
+        display: flex;
+        font-size: 1.25rem;
+        flex-grow: 2;
+        width: 50vw;
+    }
+}
+
 @media screen and (min-width: 700px){
     .top_banner {
         width: 100vw;
