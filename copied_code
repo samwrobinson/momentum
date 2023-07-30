@@ -1,0 +1,11 @@
+                <div class="calendar_container">
+                    <div class="week">
+                        <div class="days"><button>MONDAY</button></div>
+                        <div class="days"><button>TUESDAY</button></div>
+                        <div class="days"><button>WEDNESDAY</button></div>
+                        <div class="days"><button>THRUSDAY</button></div>
+                        <div class="days"><button>FRIDAY</button></div>
+                        <div class="days"><button>SATURDAY</button></div>
+                        <div class="days"><button>SUNDAY</button></div>
+                    </div>
+                </div>
