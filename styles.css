@@ -234,7 +234,7 @@ footer {
     }
     p {
         display: flex;
-        font-size: 1.25rem;
+        font-size: 1rem;
         flex-grow: 2;
         width: 50vw;
     }
